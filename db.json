@@ -1,0 +1,109 @@
+{
+  "cases": [
+    {
+      "id": 1,
+      "title": "KEMPEN",
+      "thumbnailUrl": "http://localhost:9000/kempen.png",
+      "description": "Not some vaerage banking website"
+    },
+    {
+      "id": 2,
+      "title": "BOL.COM",
+      "thumbnailUrl": "http://localhost:9000/bolcom.png",
+      "description": "A summer island in the Netherlands"
+    },
+    {
+      "id": 3,
+      "title": "Gemeentemuseum",
+      "thumbnailUrl": "http://localhost:9000/gemeentemuseum.png",
+      "description": "A 100 years of Mondriaan & De Stijl"
+    },
+    {
+      "id": 4,
+      "title": "PHILIPS",
+      "thumbnailUrl": "http://localhost:9000/philips.png",
+      "description": "Beautiful design meets innovative technology"
+    },
+    {
+      "id": 5,
+      "title": "Florensis",
+      "thumbnailUrl": "http://localhost:9000/florensis.png",
+      "description": " Rethinking the entire online ecosystem"
+    },
+    {
+      "id": 6,
+      "title": "MICROSOFT",
+      "description": "Tapping into Ireland’s unique gaming culture and bringing a fresh flavour to their Xbox social media channels"
+    },
+    {
+      "id": 7,
+      "title": "O’NEILL",
+      "thumbnailUrl": "http://localhost:9000/kempen.jpg",
+      "description": "Integrating existing content into O’Neill’s new e-commerce platform"
+    },
+    {
+      "id": 8,
+      "title": "TUI",
+      "thumbnailUrl": "http://localhost:9000/tui.png",
+      "description": "Swipe to find your next holiday destination"
+    },
+    {
+      "id": 9,
+      "title": "Be Lighting",
+      "thumbnailUrl": "http://localhost:9000/lightning.png",
+      "description": "Delivering clarity on a global scale"
+    },
+    {
+      "id": 10,
+      "title": "Florensis",
+      "thumbnailUrl": "http://localhost:9000/florensis.png",
+      "description": "Rethinking the entire online ecosystem"
+    },
+    {
+      "id": 11,
+      "title": "BUTLINS",
+      "description": "Enhancing customer experience for personalised holiday planning using real time data"
+    },
+    {
+      "id": 12,
+      "title": "VACANSESELECT",
+      "description": "Predicting booking behavior for holidays with smart data, voice search and machine learning"
+    },
+    {
+      "id": 13,
+      "title": "JBL",
+      "thumbnailUrl": "http://localhost:9000/jbl.png",
+      "description": "Live like a champion with Jerome Booteng"
+    },
+    {
+      "id": 14,
+      "title": "CHOCOMEL",
+      "thumbnailUrl": "http://localhost:9000/chocomel.png",
+      "description": " A campaign for the limited edition letter packs"
+    },
+    {
+      "id": 15,
+      "title": "KONINKLIJKE BIBLIOTHEEK",
+      "thumbnailUrl": "http://localhost:9000/koninklijke-bibliotheek.png",
+      "description": "The search for the most influential book ever"
+    },
+    {
+      "id": 16,
+      "title": "ZALANDO",
+      "thumbnailUrl": "http://localhost:9000/zalando.png",
+      "description": "Innovative SEO and content strategy for Zalando"
+    },
+    {
+      "id": 17,
+      "title": "ARLA",
+      "thumbnailUrl": "http://localhost:9000/arla.png",
+      "description": "Swipe to find your next holiday destination"
+    },
+    {
+      "id": 18,
+      "title": "LIBERTY GLOBAL",
+      "imagelUrl": "http://localhost:9000/liberty-global.png",
+      "description": "Delivering complex commerce solutions"
+    }
+  ]
+}
